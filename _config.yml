@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Brianna Mezsaros
 title: WATERLORD
 phone: 888-888-8889
-website: Your website (eg. https://google.com)(optional)
+website:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
